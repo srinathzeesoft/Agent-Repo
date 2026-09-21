@@ -4,6 +4,11 @@ Mkt3L10n.AccountAnalyzerChart = {
   Interactions: "インタラクション数",
   Week_Of_Date_Interaction: "<b>{0} の週- ({1} インタラクション{2})</b> ",
   Date_Interaction: "<b>{0} - ({1} インタラクション{2})</b> ",
+  Trend_1: "トレンド",
+  Opportunity_1: "商談",
+  Interactions1: "インタラクション数",
+  Week_Of_Date_Interaction1: "<b>{0} の週- ({1} インタラクション{2})</b> ",
+  Date_Interaction1: "<b>{0} - ({1} インタラクション{2})</b> ",
   Interactions_Cumulative_: "インタラクション(累積)"
 };
 Mkt3L10n.analytics = {
