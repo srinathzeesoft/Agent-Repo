@@ -669,7 +669,7 @@ Mkt3L10n.activityFiltersForm = {
 
 Mkt3L10n.activityLeadGrid = {
   DateAndTime: "日時（{0}）",
-  From: "差出人",
+  From: "開始",
   To: "終了",
   Activity_Type: "アクティビティのタイプ",
   Campaign_Name: "キャンペーン名"
@@ -677,7 +677,7 @@ Mkt3L10n.activityLeadGrid = {
 
 Mkt3L10n.activityCampaignGrid = {
   DateAndTime: "日時（{0}）",
-  From: "差出人",
+  From: "開始",
   To: "終了",
   Activity_Type: "アクティビティのタイプ",
   Lead_Name: "リード名",
@@ -688,7 +688,7 @@ Mkt3L10n.activityCampaignGrid = {
 
 Mkt3L10n.activityProgramGrid = {
   DateAndTime: "日時（{0}）",
-  From: "差出人",
+  From: "開始",
   To: "終了",
   Activity_Type: "アクティビティのタイプ",
   Filter_By: "フィルター条件"
@@ -2675,7 +2675,7 @@ Mkt3L10n.ImageForm = {
 
 Mkt3L10n.ReportSettingsForm = {
   To: "終了",
-  From: "差出人",
+  From: "開始",
   Date_of_Activity: "アクティビティ日",
   OK: "OK"
 };
@@ -2688,7 +2688,7 @@ Mkt3L10n.controllerDashboardSettingsForm = {
 
 Mkt3L10n.socialAppDashboardSettingsForm = {
   To: "終了",
-  From: "差出人",
+  From: "開始",
   Date_of_Activity: "アクティビティ日",
   Last_24_Hours: "過去 24 時間",
   Last_7_Days: "過去 7 日間",
@@ -3009,7 +3009,7 @@ Mkt3L10n.emailPreviewer = {
   Context_Empty_Segment: "セグメントの組み合わせを選択してください",
   Context_Segment: "セグメント",
   Context_Empty_Trigger: "トリガーの選択",
-  Field_From: "差出人",
+  Field_From: "開始",
   Field_To: "終了",
   Field_Reply: "返信先",
   Field_Subject: "件名"
@@ -4589,7 +4589,7 @@ Mkt3L10n.emailBlastDashboard = {
   Bounced: "ハードバウンス",
   Opens: "開く",
   Clicks: "クリック",
-  From: "差出人",
+  From: "開始",
   To: "終了",
   Summary: "サマリ",
   Engagement: "エンゲージメント",
@@ -4633,7 +4633,7 @@ Mkt3L10n.emailChampionChallengerDashboard = {
   Opens: "開く",
   Clicks: "クリック",
   Clicks_And_Opens: "クリックして開く",
-  From: "差出人",
+  From: "開始",
   To: "終了",
   Split: "分割",
   Summary: "サマリ",
@@ -7488,7 +7488,7 @@ Mkt3L10n.emailHtmlVariableEditor = {
 };
 
 Mkt3L10n.email2HeaderEditor = {
-  FROM: "差出人",
+  FROM: "開始",
   FROM_NAME_PLACEHOLDER: "差出人名を入力",
   FROM_EMAIL: "差出人メール",
   FROM_EMAIL_PLACEHOLDER: "差出人メールアドレスを入力",
@@ -8865,7 +8865,7 @@ Mkt3L10n.rangeField = {
   Min: "最小",
   To: "～",
   Max: "最大",
-  From: "差出人",
+  From: "開始",
   dateTimeTo: "終了",
   Minimum_Date_Required: "日付最小値が必要です",
   Start_Date_Must: "開始日時は終了日時より前でなければなりません",

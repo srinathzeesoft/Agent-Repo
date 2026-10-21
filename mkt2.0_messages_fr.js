@@ -1,6 +1,6 @@
 Mkt3L10n.AccountAnalyzerChart = {
   Trend: "",
-  Opportunity: "Opportunité",
+  Opportunity: "",
   Interactions: "Interactions",
   Week_Of_Date_Interaction: "",
   Date_Interaction: "",
@@ -181,7 +181,7 @@ Mkt3L10n.analyzers = {
   Transition_Time: "Temps de transition",
   SLA_Past_Due: "Échéance passée ANS",
   SLA_Due: "Échéance ANS",
-  Name: "Nom :",
+  Name: "Nom:",
   Type: "Type :",
   Text: "Texte :",
   Role: "Rôle:",
@@ -2026,7 +2026,7 @@ Mkt3L10n.MarketingEvent = {
   Static_list_over_1000_will_not_be_cloned: "Les listes comportant plus de 1 000 leads ne seront pas dupliquées.",
   V1_forms_will_not_be_cloned: "Les formulaires 1.0 ne sont plus pris en charge par Marketo.<br>Les formulaires v1.0 de ce programme ne seront pas clonés.",
   Channel_Id: "Id du canal",
-  Name_: "Nom :",
+  Name_: "Nom:",
   Start_Date_: "Date de début :",
   End_Date_: "Date de fin :",
   Time_Zone_: "Fuseau horaire:",
@@ -2320,7 +2320,7 @@ Mkt3L10n.Rsm = {
   Close: "Fermer",
   Deleting_model: "Suppression du modèle",
   From_Model: "Modèle d'origine :",
-  Name: "Nom :",
+  Name: "Nom:",
   Description: "Description :",
   Note_phases_reset: "Remarque :</b> Les phases ont été réinitialisées parce que le modèle a été modifié</div>",
   Assign_phases_detour_stages: "Affecter des phases pour les étapes détournées",
@@ -3096,7 +3096,7 @@ Mkt3L10n.MktGrids = {
 };
 Mkt3L10n.MktPortal = {
   root: "racine",
-  Name: "Nom :",
+  Name: "Nom:",
   Description: "Description :"
 };
 Mkt3L10n.MktSparkline = {
